@@ -1,1 +1,2 @@
-rastgele, zaman
+
+random, time
